@@ -1,5 +1,5 @@
 const yourDate = new Date("2018-07-05T01:03:00"),
-music = ['ThanhXuan','Perfect'];
+music = ['Perfect'];
 
 document.addEventListener('DOMContentLoaded', function(){
       let rootTime = document.querySelector("time");
